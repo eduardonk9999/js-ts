@@ -1,0 +1,4 @@
+const showAlert = () => {
+  alert("Opá")
+}
+
